@@ -1,6 +1,6 @@
 # 源宝的开源仓库
 
-🌟Welcome to Yuanbao's open-source repository.🌟
+🌟Welcome to GIt源宝's open-source repository.🌟
 
 ## AKShare 数据采集项目
 
